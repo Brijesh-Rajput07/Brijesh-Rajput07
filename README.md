@@ -4,9 +4,7 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Coding">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=param-bavarva03&label=Profile%20views&color=0e75b6&style=flat" alt="param-bavarva03" /> </p>
-
-<p align="left"> <a href="https://twitter.com/bavarvaparam" target="blank"><img src="https://img.shields.io/twitter/follow/bavarvaparam?logo=twitter&style=for-the-badge" alt="brijeshrajput" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brijesh-Rajput07&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
